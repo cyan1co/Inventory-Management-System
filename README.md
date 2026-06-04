@@ -24,9 +24,13 @@ A console-based Inventory Management System developed in Python to manage produc
 ## Project Structure
 
 main.py
+
 read.py
+
 write.py
+
 operation.py
+
 products.txt
 
 ## Skills Demonstrated
