@@ -1,0 +1,7 @@
+1, Vitamin C Serum, Garnier, 194, 1000.0, France
+2, Skin Cleanser, Cetaphil, 100, 280.0, Switzerland
+3, Sunscreen, Aqualogica, 200, 700.0, India
+4, Petrolium Jelly, Vaseline, 160, 120.0, United States
+5, Tinted Sunscreen, Suntan, 300, 260.0, Singapore
+6, Body Lotion, Suntan, 150, 500.0, UAE
+7, Face Wash, Cetaphil, 200, 600.0, Switzerland
